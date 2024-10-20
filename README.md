@@ -1,5 +1,5 @@
 # Linux-File-IO-Systems-locking
-Ex07-Linux File-IO Systems-locking
+
 
 ## NAME:MURALI KRISHNA.S
 ## REGISTER NUMBER ; 212223230129
